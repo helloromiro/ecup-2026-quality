@@ -1,0 +1,10 @@
+numpy
+pandas
+Pillow
+torch
+transformers==5.14.0
+peft==0.20.0
+accelerate
+bitsandbytes
+safetensors
+huggingface_hub
